@@ -1,4 +1,6 @@
 # Data Science Salaries Dashboard
+![Dashboard_ds_salaries](https://github.com/user-attachments/assets/45953d3a-4e6a-4aad-8dce-c2f153ebee2d)
+
 
 ## Project Overview
 
